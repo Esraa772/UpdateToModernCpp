@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\active_workspace\\coding_practice\\UpdateToModernCpp\\24. Casting\\my_solutions\\casting\\",
+  "WorkspaceRootPath": "D:\\active_workspace\\coding_practice\\UpdateToModernCpp\\24.Casting\\my_solutions\\casting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8467114B-2189-49E0-A6B1-80174CAADE26}|casting.vcxproj|D:\\active_workspace\\coding_practice\\UpdateToModernCpp\\24. Casting\\my_solutions\\casting\\casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8467114B-2189-49E0-A6B1-80174CAADE26}|casting.vcxproj|D:\\active_workspace\\coding_practice\\UpdateToModernCpp\\24.Casting\\my_solutions\\casting\\casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8467114B-2189-49E0-A6B1-80174CAADE26}|casting.vcxproj|solutionrelative:casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "casting.cpp",
-              "DocumentMoniker": "D:\\active_workspace\\coding_practice\\UpdateToModernCpp\\24. Casting\\my_solutions\\casting\\casting.cpp",
+              "DocumentMoniker": "D:\\active_workspace\\coding_practice\\UpdateToModernCpp\\24.Casting\\my_solutions\\casting\\casting.cpp",
               "RelativeDocumentMoniker": "casting.cpp",
-              "ToolTip": "D:\\active_workspace\\coding_practice\\UpdateToModernCpp\\24. Casting\\my_solutions\\casting\\casting.cpp",
+              "ToolTip": "D:\\active_workspace\\coding_practice\\UpdateToModernCpp\\24.Casting\\my_solutions\\casting\\casting.cpp",
               "RelativeToolTip": "casting.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-30T10:32:44.44Z",
+              "WhenOpened": "2024-09-30T13:09:21.823Z",
               "EditorCaption": ""
             }
           ]
